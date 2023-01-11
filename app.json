@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "React-Native-App",
-    "slug": "React-Native-App",
+    "slug": "react-native-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -28,6 +28,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "77d180b9-43ca-4ae5-84b1-91968cb7e278"
+      }
+    },
+    "owner": "ragul_rko"
   }
 }
